@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="pipeline.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.829812"
+     inkscape:cx="340.74539"
+     inkscape:cy="154.11419"
+     inkscape:window-width="2234"
+     inkscape:window-height="1554"
+     inkscape:window-x="146"
+     inkscape:window-y="59"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="695.0808"
+       y="395.21692"
+       width="586.74521"
+       height="131.3888"
+       id="rect1135" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#666666;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect234"
+       width="26.953274"
+       height="21.462259"
+       x="8.1271029"
+       y="15.742589"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="9.1155043"
+       y="14.64042"
+       id="text290"><tspan
+         sodipodi:role="line"
+         id="tspan288"
+         style="stroke-width:0.264583"
+         x="9.1155043"
+         y="14.64042">Vertex</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="10.370697"
+       y="21.643936"
+       id="text452"><tspan
+         sodipodi:role="line"
+         id="tspan450"
+         style="stroke-width:0.264583"
+         x="10.370697"
+         y="21.643936">array&lt; float, N &gt; attributes;</tspan></text>
+    <rect
+       style="fill:#666666;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect454"
+       width="26.953274"
+       height="21.462259"
+       x="57.646568"
+       y="15.742589"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="58.634972"
+       y="14.64042"
+       id="text458"><tspan
+         sodipodi:role="line"
+         id="tspan456"
+         style="stroke-width:0.264583"
+         x="58.634972"
+         y="14.64042">ShadedVertex</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="62.287567"
+       y="32.55407"
+       id="text462"><tspan
+         sodipodi:role="line"
+         id="tspan460"
+         style="stroke-width:0.264583"
+         x="62.287567"
+         y="32.55407">Attribs</tspan></text>
+    <rect
+       style="fill:#666666;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect464"
+       width="49.759014"
+       height="15.28826"
+       x="104.5716"
+       y="17.932249"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="105.56001"
+       y="14.64042"
+       id="text468"><tspan
+         sodipodi:role="line"
+         id="tspan466"
+         style="stroke-width:0.264583"
+         x="105.56001"
+         y="14.64042">ClippedVertex</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="62.287567"
+       y="20.830902"
+       id="text476"><tspan
+         sodipodi:role="line"
+         id="tspan474"
+         style="stroke-width:0.264583"
+         x="62.287567"
+         y="20.830902">Vec4 clip_position</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="105.75864"
+       y="22.08053"
+       id="text480"><tspan
+         sodipodi:role="line"
+         id="tspan478"
+         style="stroke-width:0.264583"
+         x="105.75864"
+         y="22.08053">Vec3 position</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="105.75864"
+         y="26.31386"
+         id="tspan1223">float inv_w</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="105.75864"
+         y="30.54719"
+         id="tspan1225">array&lt; float, N &gt; attributes</tspan></text>
+    <circle
+       style="fill:#666666;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="path534"
+       cx="11.27844"
+       cy="51.374626"
+       r="0.97928172" />
+    <circle
+       style="fill:#666666;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="circle536"
+       cx="16.714195"
+       cy="51.374626"
+       r="0.97928172" />
+    <circle
+       style="fill:#666666;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="circle538"
+       cx="22.14995"
+       cy="51.374626"
+       r="0.97928172" />
+    <circle
+       style="fill:#666666;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="circle540"
+       cx="27.585705"
+       cy="51.374626"
+       r="0.97928172" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.169741,44.370638 c -0.215853,-0.05487 -0.442269,-0.07825 -0.64756,-0.164611 -0.199803,-0.08406 -0.361648,-0.240548 -0.553828,-0.340815 -0.135598,-0.07075 -0.285018,-0.111149 -0.426016,-0.17041 -0.127968,-0.05379 -0.249924,-0.122256 -0.380746,-0.168669 -0.108537,-0.03851 -0.223553,-0.05551 -0.334823,-0.0852 -0.09948,-0.02655 -0.196159,-0.06466 -0.29738,-0.08351 -0.617275,-0.114961 -1.230483,-0.0054 -1.846612,0.04711 -0.22683,0.01934 -0.455185,0.01918 -0.68163,0.04261 -0.156549,0.01619 -1.247753,0.19956 -1.302753,0.213008 -0.104534,0.02556 -0.198141,0.08406 -0.296463,0.127805 -0.156444,0.0696 -0.314634,0.135662 -0.4678049,0.212198 -0.8158372,0.407641 -1.0015183,0.533533 -1.8318872,1.150252 -0.1369499,0.101714 -0.2541582,0.227624 -0.3825504,0.339948 -0.098538,0.0862 -0.2187107,0.15159 -0.2982129,0.255611 -0.105002,0.137385 -0.1627786,0.305139 -0.246148,0.456631 -0.05464,0.09929 -0.1251511,0.190688 -0.1678577,0.295664 -0.1050957,0.258331 -0.165898,0.566894 -0.165898,0.846026 0,0.142145 0.036416,0.282292 0.042601,0.424302 0.030667,0.704125 -0.044594,1.382871 0.085205,2.087499 0.093882,0.509643 0.3160535,0.584269 0.2556118,1.119711 -0.040127,0.355481 -0.2050251,0.664517 -0.3390601,0.989629 -0.046139,0.111914 -0.080295,0.228585 -0.1278059,0.339921 -0.037178,0.08713 -0.088821,0.167595 -0.1259525,0.254738 -0.119906,0.281411 -0.2231985,0.569664 -0.3408169,0.852038 -0.070752,0.16986 -0.1520418,0.335706 -0.2121967,0.509601 -0.1715468,0.495906 -0.1936519,0.676936 -0.2556118,1.192858 -0.059457,0.495083 -0.067177,0.978704 0.085202,1.460256 0.1108821,0.350415 0.2454019,0.550334 0.3834178,0.894644 0.049912,0.124513 0.065675,0.262713 0.1278059,0.381601 0.081849,0.156617 0.3785481,0.589912 0.5474502,0.758523 0.031152,0.0311 0.075108,0.04593 0.1124291,0.06927 0.074224,0.04641 0.2668378,0.172979 0.3280926,0.19414 0.3026635,0.104564 0.4126277,0.07399 0.7151327,0.127807 0.1245421,0.02215 0.2462123,0.05841 0.3702318,0.08332 0.1505082,0.03024 0.8431064,0.152537 0.9798433,0.170405 0.1549472,0.02024 0.3117998,0.02318 0.4668536,0.0426 0.6734392,0.08432 0.5666202,0.10173 1.3206602,0.255614 0.439335,0.08966 0.887036,0.141494 1.320663,0.255603 0.377847,0.09943 0.734409,0.267891 1.10765,0.383418 0.223732,0.06925 0.467263,0.0761 0.681633,0.170416 0.1482,0.06521 0.246624,0.211593 0.383418,0.298212 0.08861,0.05611 0.198323,0.07237 0.287925,0.126881 0.286423,0.174246 0.463997,0.382026 0.723408,0.595609 0.109631,0.09026 0.240219,0.155384 0.34082,0.255611 0.0716,0.07133 0.104562,0.173821 0.168651,0.251968 0.06311,0.07695 0.149245,0.133151 0.21111,0.211103 0.327424,0.412565 -0.151563,0.0011 0.375636,0.462174 0.368548,0.322368 0.788159,0.603565 1.201969,0.858584 0.292949,0.180535 0.585417,0.364595 0.896052,0.512646 1.094892,0.521832 2.563652,0.842483 3.756439,0.50909 0.561825,-0.157033 0.957508,-0.821206 1.236647,-1.235461 0.644029,-0.955765 0.426948,-0.638649 0.725399,-1.623547 0.219703,-0.725027 0.243083,-0.616474 0.426022,-1.402435 0.0255,-0.109564 0.0072,-0.227994 0.0426,-0.334777 0.02075,-0.06261 0.239086,-0.412216 0.291077,-0.498126 0.09188,-0.151826 0.20742,-0.386892 0.378631,-0.463021 0.28289,-0.125788 0.593045,-0.178641 0.892918,-0.255614 0.253627,-0.0651 0.507749,-0.132492 0.766837,-0.17041 0.484801,-0.07095 2.320631,-0.165187 2.576388,-0.174246 0.305472,-0.01082 0.61133,0 0.916995,0 0.547807,0 1.090536,0.06079 1.560005,-0.298218 0.207182,-0.158432 0.712713,-0.646705 0.852045,-0.852035 0.153377,-0.226031 0.250762,-0.485457 0.383419,-0.724238 0.08042,-0.144767 0.203163,-0.268936 0.255611,-0.426017 0.06343,-0.189962 0.0417,-0.399256 0.0852,-0.594746 0.125029,-0.561813 0.166852,-0.452435 0.297323,-0.931235 0.0223,-0.08187 0.08219,-0.512787 0.0852,-0.565179 0.008,-0.139531 0.02553,-0.281874 0,-0.419283 -0.04587,-0.246811 -0.138396,-0.482653 -0.212191,-0.722598 -0.153151,-0.497972 -0.296127,-0.999458 -0.468619,-1.491067 -0.489233,-1.394315 -0.30869,-0.438984 -0.511226,-1.618877 -0.161202,-0.93911 -0.277333,-1.880595 -0.341886,-2.831389 -0.01926,-0.283715 -0.03492,-0.567774 -0.0426,-0.852037 -0.0096,-0.355397 0.08829,-1.075267 -0.168058,-1.403514 -0.05368,-0.06873 -0.126559,-0.122558 -0.202087,-0.166153 -0.39067,-0.225502 -0.796856,-0.423029 -1.192858,-0.63903 -0.228856,-0.124833 -0.453763,-0.256783 -0.681627,-0.383418 -0.154289,-0.08574 -0.293865,-0.209709 -0.464807,-0.253701 -0.32394,-0.08337 -1.02698,-0.09827 -1.405866,-0.0852 -0.506614,0.01746 -1.355601,0.08747 -1.789282,0.213008 -0.189502,0.05486 -0.339095,0.201824 -0.511225,0.298217 -0.182939,0.102447 -0.366292,0.204446 -0.553827,0.298215 -0.09673,0.04837 -0.212363,0.06203 -0.29821,0.127807 -0.533548,0.408797 0.08434,0.239516 -0.675661,0.589954 -0.216172,0.09968 -0.45594,0.137309 -0.681628,0.213006 -0.245249,0.08226 -0.481418,0.192434 -0.730903,0.260781 -0.225174,0.06169 -0.466057,0.0402 -0.695319,0.08433 -0.09674,0.01863 -0.529634,0.148381 -0.608226,0.156552 -0.297354,0.03091 -0.630663,-0.01873 -0.925395,-0.04344 -0.184507,-0.01548 -0.369218,-0.0284 -0.553828,-0.0426 -0.297623,-0.0284 -0.594953,-0.06006 -0.892869,-0.0852 -0.03882,-0.0033 -0.07845,0.0064 -0.116866,0 -0.0099,-0.0016 -0.01019,-0.01924 -0.01953,-0.02281 -0.0433,-0.01662 -0.0911,-0.01945 -0.13434,-0.03623 -0.179097,-0.06949 -0.336354,-0.136572 -0.467533,-0.284033 -0.0539,-0.06059 -0.07288,-0.146497 -0.12463,-0.208925 -0.03117,-0.0376 -0.08415,-0.05119 -0.1192,-0.08521 -0.04701,-0.04562 -0.02773,-0.08822 -0.110408,-0.115118 -0.01515,-0.0049 -0.03186,0 -0.04779,0 -0.02113,-0.01323 -0.04088,-0.02898 -0.06339,-0.03969 -0.04318,-0.02053 -0.187033,0 -0.241477,0 -0.15039,0 -0.321169,-0.02893 -0.462179,0.02125 -0.07675,0.02731 -0.283885,-0.01 -0.386083,0 -0.139047,0.01357 -0.27799,0.02819 -0.416985,0.04228 z"
+       id="path668" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="52.851894"
+       y="73.557365"
+       id="text672"><tspan
+         sodipodi:role="line"
+         id="tspan670"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="52.851894"
+         y="73.557365">Stream of Vertices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="52.098495"
+       y="76.972893"
+       id="text676"><tspan
+         sodipodi:role="line"
+         id="tspan674"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="52.098495"
+         y="76.972893">(just opaque data)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="125.0054"
+       y="73.557365"
+       id="text680"><tspan
+         sodipodi:role="line"
+         id="tspan678"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="125.0054"
+         y="73.557365">Stream of Shaded Vertices</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="124.25201"
+       y="76.972893"
+       id="text684"><tspan
+         sodipodi:role="line"
+         id="tspan682"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="124.25201"
+         y="76.972893">(with clip-space position)</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect686"
+       width="20.560486"
+       height="9.5502548"
+       x="75.654358"
+       y="68.842316"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="85.75322"
+       y="72.778152"
+       id="text690"><tspan
+         sodipodi:role="line"
+         id="tspan688"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="85.75322"
+         y="72.778152">Vertex</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="85.75322"
+         y="77.011482"
+         id="tspan692">Shading</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect694"
+       width="20.560486"
+       height="9.5502548"
+       x="84.863556"
+       y="89.407028" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="94.962418"
+       y="93.147545"
+       id="text700"><tspan
+         sodipodi:role="line"
+         id="tspan696"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="94.962418"
+         y="93.147545">Vertex</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="94.962418"
+         y="97.380875"
+         id="tspan698">Program</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect754"
+       width="20.560486"
+       height="9.731143"
+       x="61.301357"
+       y="89.407028" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="71.400215"
+       y="93.147545"
+       id="text760"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="71.400215"
+         y="93.147545"
+         id="tspan758">Program</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="71.400215"
+         y="97.380875"
+         id="tspan762">Parameters</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect782"
+       width="20.560486"
+       height="9.5502548"
+       x="153.95061"
+       y="102.22758" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="164.04947"
+       y="105.9681"
+       id="text788"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="164.04947"
+         y="105.9681"
+         id="tspan786">Primitive</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="164.04947"
+         y="110.20143"
+         id="tspan792">Type</tspan></text>
+    <g
+       id="g1123"
+       transform="translate(-37.892619,-122.82044)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="201.7018"
+         y="62.696133"
+         id="text776"><tspan
+           sodipodi:role="line"
+           id="tspan774"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="201.7018"
+           y="62.696133">Stream of Lines</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="200.94839"
+         y="66.111664"
+         id="text780"><tspan
+           sodipodi:role="line"
+           id="tspan778"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="200.94839"
+           y="66.111664">(pairs of vertices)</tspan></text>
+      <rect
+         style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+         id="rect794"
+         width="20.560486"
+         height="9.5502548"
+         x="229.16457"
+         y="57.981083"
+         rx="2"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="239.26343"
+         y="61.91692"
+         id="text800"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="239.26343"
+           y="61.91692"
+           id="tspan798">Clipping</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="276.4173"
+         y="62.696133"
+         id="text804"><tspan
+           sodipodi:role="line"
+           id="tspan802"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="276.4173"
+           y="62.696133">Stream of Lines</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="275.66391"
+         y="66.111664"
+         id="text808"><tspan
+           sodipodi:role="line"
+           id="tspan806"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="275.66391"
+           y="66.111664">(clipped to -w &lt;= x,y,z &lt;= w)</tspan></text>
+      <rect
+         style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+         id="rect812"
+         width="26.831419"
+         height="9.5502548"
+         x="304.95746"
+         y="57.981083"
+         rx="2"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="318.30652"
+         y="63.684513"
+         id="text816"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="318.30652"
+           y="63.684513"
+           id="tspan814">Rasterization</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 158.31236,63.443402 11.48061,-6.659404 v 36.645924 l -11.48061,-6.659404 z"
+         id="path818"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="-75.580704"
+         y="162.8791"
+         id="text873"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan869"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="-75.580704"
+           y="162.8791">Primitive</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="-75.580704"
+           y="167.11243"
+           id="tspan871">Assembly</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="201.7018"
+         y="85.657448"
+         id="text926"><tspan
+           sodipodi:role="line"
+           id="tspan924"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="201.7018"
+           y="85.657448">Stream of Triangles</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="200.94839"
+         y="89.072983"
+         id="text930"><tspan
+           sodipodi:role="line"
+           id="tspan928"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="200.94839"
+           y="89.072983">(triples of vertices)</tspan></text>
+      <rect
+         style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+         id="rect932"
+         width="20.560486"
+         height="9.5502548"
+         x="229.16457"
+         y="80.942398"
+         rx="2"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="239.26343"
+         y="84.878235"
+         id="text936"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="239.26343"
+           y="84.878235"
+           id="tspan934">Clipping</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="276.4173"
+         y="85.657448"
+         id="text940"><tspan
+           sodipodi:role="line"
+           id="tspan938"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="276.4173"
+           y="85.657448">Stream of Triangles</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="275.66391"
+         y="89.072983"
+         id="text944"><tspan
+           sodipodi:role="line"
+           id="tspan942"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="275.66391"
+           y="89.072983">(clipped to -w &lt;= x,y,z &lt;= w)</tspan></text>
+      <rect
+         style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+         id="rect946"
+         width="26.831419"
+         height="9.5502548"
+         x="304.95746"
+         y="80.942398"
+         rx="2"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="318.30652"
+         y="86.645828"
+         id="text950"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="318.30652"
+           y="86.645828"
+           id="tspan948">Rasterization</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="205.38756"
+       y="72.550148"
+       id="text776-3"><tspan
+         sodipodi:role="line"
+         id="tspan774-6"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="205.38756"
+         y="72.550148">Stream of Primitives</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="204.63416"
+       y="75.965652"
+       id="text780-7"><tspan
+         sodipodi:role="line"
+         id="tspan778-5"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="204.63416"
+         y="75.965652">(groups of vertices)</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect794-3"
+       width="20.560486"
+       height="9.5502548"
+       x="232.85033"
+       y="67.835098"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="242.94919"
+       y="71.770912"
+       id="text800-5"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="242.94919"
+         y="71.770912"
+         id="tspan798-6">Clipping</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="280.10306"
+       y="72.550148"
+       id="text804-2"><tspan
+         sodipodi:role="line"
+         id="tspan802-9"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="280.10306"
+         y="72.550148">Stream of Primitives</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="279.34967"
+       y="75.965652"
+       id="text808-1"><tspan
+         sodipodi:role="line"
+         id="tspan806-2"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="279.34967"
+         y="75.965652">(clipped to -w &lt;= x,y,z &lt;= w)</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect812-7"
+       width="26.831419"
+       height="9.5502548"
+       x="308.64319"
+       y="67.835098"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="321.99225"
+       y="73.538528"
+       id="text816-0"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="321.99225"
+         y="73.538528"
+         id="tspan814-9">Rasterization</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect1125"
+       width="20.560486"
+       height="9.5502548"
+       x="156.24451"
+       y="68.842316"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="166.34337"
+       y="72.778152"
+       id="text1131"><tspan
+         sodipodi:role="line"
+         id="tspan1127"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="166.34337"
+         y="72.778152">Primitive</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="166.34337"
+         y="77.011482"
+         id="tspan1129">Assembly</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1133"
+       style="font-family:'TeX Gyre Termes Math';font-size:16px;line-height:0.55;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'TeX Gyre Termes Math';white-space:pre;shape-inside:url(#rect1135)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="363.28149"
+       y="72.550148"
+       id="text1185"><tspan
+         sodipodi:role="line"
+         id="tspan1183"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="363.28149"
+         y="72.550148">Stream of Fragments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="362.52811"
+       y="75.965652"
+       id="text1189"><tspan
+         sodipodi:role="line"
+         id="tspan1187"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="362.52811"
+         y="75.965652">(with framebuffer position, depth)</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect1191"
+       width="26.831419"
+       height="9.5502548"
+       x="393.64536"
+       y="67.835098"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="406.99442"
+       y="71.966072"
+       id="text1195"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="406.99442"
+         y="71.966072"
+         id="tspan1193">Fragment</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="406.99442"
+         y="76.199402"
+         id="tspan1197">Shading</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect1199"
+       width="20.560486"
+       height="9.5502548"
+       x="408.90582"
+       y="89.407028" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="419.00467"
+       y="93.147545"
+       id="text1205"><tspan
+         sodipodi:role="line"
+         id="tspan1201"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="419.00467"
+         y="93.147545">Fragment</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="419.00467"
+         y="97.380875"
+         id="tspan1203">Program</tspan></text>
+    <rect
+       style="fill:#ececec;fill-rule:evenodd;stroke:#aaaaaa;stroke-width:0.352999;stop-color:#000000"
+       id="rect1207"
+       width="20.560486"
+       height="9.731143"
+       x="385.34363"
+       y="89.407028" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="395.44247"
+       y="93.147545"
+       id="text1213"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="395.44247"
+         y="93.147545"
+         id="tspan1209">Program</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="395.44247"
+         y="97.380875"
+         id="tspan1211">Parameters</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="451.1395"
+       y="72.550148"
+       id="text1217"><tspan
+         sodipodi:role="line"
+         id="tspan1215"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="451.1395"
+         y="72.550148">Stream of Shaded Fragments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.13858px;line-height:0.55;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="450.38611"
+       y="75.965652"
+       id="text1221"><tspan
+         sodipodi:role="line"
+         id="tspan1219"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="450.38611"
+         y="75.965652">(with framebuffer position, depth, color)</tspan></text>
+  </g>
+</svg>

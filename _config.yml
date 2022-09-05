@@ -1,0 +1,8 @@
+remote_theme: pmarsceill/just-the-docs
+baseurl: /Scotty3D
+plugins:
+  - jekyll-sitemap
+  - jekyll-remote-theme
+logo: '/assets/spot.png'
+favicon: 'assets/favicon.ico'
+markdown: kramdown

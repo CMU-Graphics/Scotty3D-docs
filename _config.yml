@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-baseurl: /Scotty3D
+baseurl: /Scotty3D-docs
 plugins:
   - jekyll-sitemap
   - jekyll-remote-theme

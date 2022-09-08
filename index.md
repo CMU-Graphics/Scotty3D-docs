@@ -8,27 +8,21 @@ nav_order: 1
 ![15-462 F20 Renders](results/me_f20_crop.png)
 # Scotty3D
 
-Welcome to Scotty3D! This 3D graphics software package includes components for interactive mesh
+Welcome to Scotty3D! This 3D graphics software package includes components for software rastization, interactive mesh
 editing, realistic path tracing, and dynamic animation. Implementing functionality in each of these areas
 constitutes the majority of the coursework for 15-462/662 (Computer Graphics) at Carnegie Mellon University
 
 
 These pages describe how to set up and use Scotty3D. Start here!
-- [Git Setup](git): create a private git mirror that can pull changes from Scotty3D.
-- [Building Scotty3D](build): build and run Scotty3D on various platforms.
+- [Git Setup](https://github.com/CMU-Graphics/Scotty3D#github-setup): create a private git mirror that can pull changes from Scotty3D.
+- [Building Scotty3D](https://github.com/CMU-Graphics/Scotty3D#general-setup): build and run Scotty3D on various platforms.
 - [User Guide](guide): learn the intended functionality for end users.
-
-The developer manual describes what you must implement to complete Scotty3D. It is organized under the three main components of the software:
-- [Rasterizer](rasterizer)
-- [MeshEdit](meshedit)
-- [PathTracer](pathtracer)
-- [Animation](animation)
 
 ## Project Philosophy
 
 Welcome to your first day of work at Scotty Industries! Over the next few months
 you will implement core features in Scotty Industries' flagship product
-Scotty3D, which is a modern package for 3D modeling, rendering, and animation.
+Scotty3D, which is a modern package for rasterization, 3D modeling, rendering, and animation.
 In terms of basic structure, this package doesn't look much different from
 "real" 3D tools like Maya, Blender, modo, or Houdini. Your overarching goal is
 to use the developer manual to implement a package that
@@ -37,7 +31,8 @@ software company (more details below).
 
 Note that the User Guide is **not** an Assignment Writeup. The User Guide
 contains only instructions on how to use the software, and serves as a
-high-level specification of _what the software should do_. The Developer Guide
+high-level specification of _what the software should do_. The Developer Guide,
+which can be found under [assignments](https://github.com/CMU-Graphics/Scotty3D/tree/main/assignments), 
 contains information about the internals of the code, i.e., _how the software
 works_. This division is quite common in software development: there is a
 **design specification** or "design spec", and an **implementation** that
@@ -85,4 +80,4 @@ choices with your classmates. Practically speaking, it is ok for routines to
 simply show an error if they encounter a rare and difficult corner case---as long as it
 does not interfere with successful operation of the program (i.e., if it does
 not crash or yield bizarre behavior). Your main goal here above all else should be
-to develop _effective tool for modeling, rendering, and animation_.
+to develop _effective tool for rasterizing, modeling, rendering, and animating_.

@@ -6,9 +6,15 @@ parent: User Guide
 nav_order: 2
 ---
 
-# Render
+# Render Options
 
-Welcome! This is Scotty3D's realistic, globally illuminated renderer, capable of creating images of complex scenes using path tracing.
+The `Render` mode supports three types of rendering: `Hardware Rasterize`, `Software Rasterize`, and `Path Trace`.
+
+`Hardware Rasterize` uses OpenGL library functions to rasterize the scene as seen from the selected camera's view. This is already included in the base code and provided by default.
+
+`Software Rasterize` uses your solutions to A1 Rasterizer to perform software rendering of the given scene from the selected camera's view. Note that the results of `Hardware Rasterize` may yield results extremely close to what you might expect your rasterizer to ultimately output, but *this is not always the case*. Therefore, you may use the hardware rasterizer as your guideline, but do not rely only on that!
+
+`Path Trace` uses your solutions to A3 Pathtracer to act as a realistic, globally illuminated renderer, capable of creating images of complex scenes using path tracing. Note that you must have incident light upon objects viewed inside the scene to have them rendered using this option.
 
 ## Render Window
 
@@ -24,9 +30,23 @@ To move the render camera to the current view, click `Move to View`. This will r
 
 Feel free to play around with the field of view (FOV) and aspect ratio (AR) sliders - they will adjust your current view to use these values, so you can see how exactly the effect the visible region.
 
+## Mesh Options
+
+There are 5 options under each mesh instance's `Object` tab.
+
+![mesh options](mesh_type.png)
+
+- `Visible`: toggle for whether we see the mesh instance in a scene or not (and hence whether the mesh gets rendered or not)
+- `Wireframe`: turn the mesh into a wireframe mesh, which consists only of vertices and edges but no faces
+- `Flat`: perform "flat" interpolation, where every fragment emitted contains the same attributes
+- `Smooth`: perform screen-space interpolation
+- `Correct`: perform perspective-correct interpolation
+
+Note that you can only choose one of the four mesh types (`wireframe`, `flat`, `smooth`, `correct`) at one time.
+
 ## Create light
 
-There are two ways of creating a light source in a scene.
+The two rasterizer types do not require light to render, but pathtracer does. There are two ways of creating a light source in a scene.
 
 One method is by creating a light instance object. Go to `Layout` mode, click on `Create Object`, and select either `Delta Light Instance` or `Envirnoment Light Instance`. Once a light instance object has been created, you will be able to choose from a variety of lighting types and infinite environment lights. (To implement support for environment lights, see PathTracer task 7.)
 

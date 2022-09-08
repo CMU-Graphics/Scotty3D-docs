@@ -14,13 +14,13 @@ To add an emitter, simply create a new `Particles Instance` and adjust the param
 
 ![add emitter](add_emitter.png)
 
-- Gravity: the gravitational force acting on particles that get emitted from this emitter.
-- Scale: the scale factor to apply to the particle mesh when rendering particles.
-- Initial Velocity: how fast each particle exits the emitter.
-- Spread Angle: angle of cone within which particles are generated (pointing in the emitter object's direction).
-- Lifetime: how long (in seconds) each particle should live before it is deleted.
-- Particles/Sec: how many particles should be generated per second. The total amount of live particles is hence `lifetime * particles_per_second`.
-- Timestep: the time interval between updating the position of particles on display. 
+- `Gravity`: the gravitational force acting on particles that get emitted from this emitter.
+- `Scale`: the scale factor to apply to the particle mesh when rendering particles.
+- `Initial Velocity`: how fast each particle exits the emitter.
+- `Spread Angle`: angle of cone within which particles are generated (pointing in the emitter object's direction).
+- `Lifetime`: how long (in seconds) each particle should live before it is deleted.
+- `Particles/Sec`: how many particles should be generated per second. The total amount of live particles is hence `lifetime * particles_per_second`.
+- `Timestep`: the time interval between updating the position of particles on display. 
 
 In order to enable the emitter, you need to toggled `Simulate Here` checkbox under `Object` tab that appears when you select your emitter.
 

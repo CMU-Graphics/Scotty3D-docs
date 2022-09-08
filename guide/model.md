@@ -3,6 +3,7 @@ layout: default
 title: "Model"
 permalink: /guide/model_mode/
 parent: User Guide
+nav_order: 1
 ---
 
 # Model

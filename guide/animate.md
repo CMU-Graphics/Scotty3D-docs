@@ -3,6 +3,7 @@ layout: default
 title: "Animate"
 permalink: /guide/animate_mode/
 parent: User Guide
+nav_order: 4
 ---
 
 # Animate
@@ -32,7 +33,7 @@ Check `Draw Splines` to visualize the spline along which objects are animated.
 `Add Frames` inserts 90 empty frames into the timeline. `Crop End` deletes frames from the selected location to the end of the timeline.
 
 ### Posing
-Once you have [rigged](../rig) an object with a skeleton, it can now be posed by selecting a joint and changing its pose i.e., rotating the joint. This is called Forward Kinematics.
+Once you have [rigged](../rigging_mode) an object with a skeleton, it can now be posed by selecting a joint and changing its pose i.e., rotating the joint. This is called Forward Kinematics.
 Joint poses can also be indirectly changed by using the IK (Inverse Kinematics) handles to provide target positions.
 Note that IK handles need to be explicitly enabled using the checkbox.
 

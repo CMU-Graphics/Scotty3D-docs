@@ -10,11 +10,11 @@ nav_order: 2
 
 The `Render` mode supports three types of rendering: `Hardware Rasterize`, `Software Rasterize`, and `Path Trace`.
 
-`Hardware Rasterize` uses OpenGL library functions to rasterize the scene as seen from the selected camera's view. This is already included in the base code and provided by default.
+- `Hardware Rasterize` uses OpenGL library functions to rasterize the scene as seen from the selected camera's view. This is already included in the base code and provided by default.
 
-`Software Rasterize` uses your solutions to A1 Rasterizer to perform software rendering of the given scene from the selected camera's view. Note that the results of `Hardware Rasterize` may yield results extremely close to what you might expect your rasterizer to ultimately output, but *this is not always the case*. Therefore, you may use the hardware rasterizer as your guideline, but do not rely only on that!
+- `Software Rasterize` uses your solutions to A1 Rasterizer to perform software rendering of the given scene from the selected camera's view. Note that the results of `Hardware Rasterize` may yield results extremely close to what you might expect your rasterizer to ultimately output, but *this is not always the case*. Therefore, you may use the hardware rasterizer as your guideline, but do not rely only on that!
 
-`Path Trace` uses your solutions to A3 Pathtracer to act as a realistic, globally illuminated renderer, capable of creating images of complex scenes using path tracing. Note that you must have incident light upon objects viewed inside the scene to have them rendered using this option.
+- `Path Trace` uses your solutions to A3 Pathtracer to act as a realistic, globally illuminated renderer, capable of creating images of complex scenes using path tracing. Note that you must have incident light upon objects viewed inside the scene to have them rendered using this option.
 
 ## Render Window
 
@@ -42,7 +42,7 @@ There are 5 options under each mesh instance's `Object` tab.
 - `Smooth`: perform screen-space interpolation
 - `Correct`: perform perspective-correct interpolation
 
-Note that you can only choose one of the four mesh types (`wireframe`, `flat`, `smooth`, `correct`) at one time.
+Note that you can only choose one of the four mesh types (`wireframe`, `flat`, `smooth`, `correct`) at any given time.
 
 ## Create light
 

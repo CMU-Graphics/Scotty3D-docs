@@ -26,7 +26,7 @@ To see your animation, press `Play [space]` . Once you've implemented **spline i
 
 Check `Draw Splines` to visualize the spline along which objects are animated.
 
-![view-spline](../animate_mode/guide-animate-spline.png)
+<video src="{{ site.baseurl }}/guide/animate_mode/guide-animate-spline.mp4" controls preload muted loop style="max-width: 100%; margin: 0 auto;"></video>
 
 `Add Frames` inserts 90 empty frames into the timeline. `Crop End` deletes frames from the selected location to the end of the timeline.
 

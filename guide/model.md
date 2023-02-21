@@ -155,8 +155,7 @@ that, e.g., flat faces stay flat, and old vertices remain where they were.
 
 <video src="{{ site.baseurl }}/guide/model_mode/linear_subd.mp4" controls preload muted loop style="max-width: 100%; margin: 0 auto;"></video>
 
-- Catmull-Clark Subdivision: _[Note: this method is for meshes without boundary only!]_
-Just as with linear subdivision, each
+- Catmull-Clark Subdivision: Just as with linear subdivision, each
 polygon is split into quadrilaterals, but this time the vertex positions are
 updated according to the [Catmull-Clark subdivision
 rules](https://en.wikipedia.org/wiki/Catmull-Clark_subdivision_surface),
@@ -164,7 +163,7 @@ ultimately generating a nice rounded surface.
 
 <video src="{{ site.baseurl }}/guide/model_mode/catmull_subd.mp4" controls preload muted loop style="max-width: 100%; margin: 0 auto;"></video>
 
-- Loop Subdivision:  _[Note: this method is for triangle meshes without boundary only!]_
+- Loop Subdivision:  _[Note: this method is for triangle meshes only!]_
 Each triangle is split into four by connecting the edge midpoints. Vertex
 positions are updated according to the [Loop subdivision
 rules](https://en.wikipedia.org/wiki/Loop_subdivision_surface).
